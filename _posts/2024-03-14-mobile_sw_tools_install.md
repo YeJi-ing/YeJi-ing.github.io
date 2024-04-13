@@ -1,7 +1,7 @@
 ---
 title: 모바일 SW(Tizen APP) 개발을 위한 Tool 설치
 date: 2024-03-14 00:10:00 +0900
-categories: [Dev, Embedded System]
+categories: [Dev, Mobile SW]
 tags: [Tizen]
 ---
 
