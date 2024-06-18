@@ -12,9 +12,9 @@ tags: [Tizen]
 <br/><br/>
 
 ---
-## Tool 설치
+## **Tool 설치**
 
-### 1. Microsoft Visual Studio Community 2019
+### **1. Microsoft Visual Studio Community 2019**
 
 > **버전: Microsoft Visual Studio Community 2019 버전 16.11.34**
 {: .prompt-warning }
@@ -32,7 +32,7 @@ tags: [Tizen]
     <br/><br/>
     
 
-### 2. .NET SDK
+### **2. .NET SDK**
 
 > **버전: .NET SDK 5.0.408**
 {: .prompt-warning }
@@ -44,7 +44,7 @@ tags: [Tizen]
     <br/><br/>
 
 
-### 3. JAVA SDK
+### **3. JAVA SDK**
 
 > **버전: JAVA SDK 1.8.0.201**
 {: .prompt-warning }
@@ -81,7 +81,7 @@ tags: [Tizen]
 <br/><br/>
 
 
-### 4. Tizen Tool for VS
+### **4. Tizen Tool for VS**
 
 - **다운로드**:  Visual Studio > 확장 > 확장 관리 선택
     - 밑의 2개 다운로드 (다운로드 클릭 후 VS를 모두 닫아야 다운로드 시작)
@@ -90,7 +90,7 @@ tags: [Tizen]
 <br/><br/>
 
 
-### 5. Tizen SDK
+### **5. Tizen SDK**
 
 - **다운로드**: Visual Studio > 도구 > Tizen > Tizen Package Manager 선택
     - SDK 설치할 폴더 먼저 생성 필요
@@ -109,7 +109,7 @@ tags: [Tizen]
 <br/><br/>
 
 ---
-## Emulator 생성 및 실행
+## **Emulator 생성 및 실행**
 
 - **Emulator Manager 실행** : Visual Studio > 도구 > Tizen > Tizen Emulator Manager 선택
 - **생성:**
@@ -127,7 +127,7 @@ tags: [Tizen]
 <br/><br/>
 
 ---
-## Visual Studio 빌드 및 실행
+## **Visual Studio 빌드 및 실행**
 
 - **프로젝트 위치:** C:\Users\HanYeJi\source\repos\TizenXamlApp7-class
     - Mainpage.xml (초반에는 이 파일을 주로 작업)
@@ -137,7 +137,7 @@ tags: [Tizen]
 <br/><br/>
 
 ---
-## 전체 실행 화면
+## **전체 실행 화면**
 
 ![연결 확인 화면.png](/assets/img/post_img/2024-03-14-4.png){: .rounded-10 w='1212' h='668'}
 
