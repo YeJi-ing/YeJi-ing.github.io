@@ -27,7 +27,7 @@ tags: [Tizen]
 - **호환: Visual Studio** 16.11.XX 버전은 **.NET SDK** 5.0.4XX 버전과 호환
     
 
-    ![VS 설치 확인 이미지](/assets/img/post_img/2024-03-14-1.png){: .rounded-10 w='1212' h='668'}
+    ![VS 설치 확인 이미지](/assets/img/post_img/2024-03-14-1.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
 
     <br/><br/>
     
@@ -40,7 +40,7 @@ tags: [Tizen]
 - **다운로드 링크**: [https://dotnet.microsoft.com/en-us/download/dotnet/5.0](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
     - 위의 다운로드 페이지에서 SDK 5.0.408 > Windows > **x64** 다운로드
     
-    ![NET SDK 설치 확인 이미지](/assets/img/post_img/2024-03-14-2.png){: .rounded-10 w='1212' h='668'}
+    ![NET SDK 설치 확인 이미지](/assets/img/post_img/2024-03-14-2.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
     <br/><br/>
 
 
@@ -77,7 +77,7 @@ tags: [Tizen]
 
 
 
-![JAVA 버전 확인.png](/assets/img/post_img/2024-03-14-3.png){: .rounded-10 w='1212' h='668'}
+![JAVA 버전 확인.png](/assets/img/post_img/2024-03-14-3.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
 <br/><br/>
 
 
@@ -139,7 +139,7 @@ tags: [Tizen]
 ---
 ## **전체 실행 화면**
 
-![연결 확인 화면.png](/assets/img/post_img/2024-03-14-4.png){: .rounded-10 w='1212' h='668'}
+![연결 확인 화면.png](/assets/img/post_img/2024-03-14-4.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
 
 - 애뮬레이터 옆의 바에 있는 각 버튼 기능
     - (맨 위의 버튼 2개는 작동하지 않음)
