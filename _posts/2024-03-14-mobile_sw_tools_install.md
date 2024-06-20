@@ -3,6 +3,10 @@ title: 모바일 SW(Tizen APP) 개발을 위한 Tool 설치
 date: 2024-03-14 00:10:00 +0900
 categories: [Dev, Mobile SW]
 tags: [Tizen]
+image:
+  path: /assets/img/post_img/mobileSW.png
+  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+  alt: Mobile SW
 ---
 
 **기본 환경**
