@@ -62,7 +62,7 @@ tags: [Tizen]
     - **JAVA_HOME :** C:\Program Files\Java\jdk1.8.0_201
     - **PATH :** %JAVA_HOME%\bin
     - **CLASSPATH :** .;
-- **(추가: 변수 설정)** 나는 원래 사용하던 버전이 있어서 해당 버전을 우선 참조하도록 추가 설정했다.
+- **(추가: 변수 설정)** 원래 사용하던 버전이 있어서 해당 버전을 우선 참조하도록 추가 설정했습니다.
 
     | 시스템 변수 명 | 기존 값 | 변경 값 |
     | :------------ | :----- | :------ | 
@@ -71,7 +71,7 @@ tags: [Tizen]
     | CLASSPATH | %JAVA_HOME%\lib |  .;  |
 
     - **`PATH` 순서 관련**:
-    참조하는 java.exe가 여러 개 있어서, 해당 버전을 우선하도록 해당 환경 변수 순서를 밑의 환경 변수 2개 보다 위로 올림 
+    참조하는 java.exe가 여러 개 있어서, 해당 버전을 우선하도록 해당 환경 변수 순서를 밑의 환경 변수 2개 보다 위로 올립니다.
         -  C:\Program Files (x86)\CommonFiles\Oracle\Java\javapath
         -  C:\Program Files\Common Files\Oracle\Java\javapath
 
@@ -113,16 +113,16 @@ tags: [Tizen]
 
 - **Emulator Manager 실행** : Visual Studio > 도구 > Tizen > Tizen Emulator Manager 선택
 - **생성:**
-    1. “Device: HD1080 Tizen”, “Name: T-8.0-x86_64”인 애뮬레이터 선택 후 Create 클릭 
-    2. Platform: “tizen-8.0-x86_64(basic)” 선택
-    3. Template: “HD1080 Tizen” 선택
+    1. Device: `HD1080 Tizen`, Name: `T-8.0-x86_64`인 애뮬레이터 선택 후 Create 클릭 
+    2. Platform: `tizen-8.0-x86_64(basic)` 선택
+    3. Template: `HD1080 Tizen` 선택
     4. Properties: 
         - General: VM Name 설정
             - 예시 이름: t-0313-1
                 
                 타이젠(t) / 날짜(0313) / 번호(1)
                 
-        - HW Support:  “GPU OFF” 설정
+        - HW Support:  `GPU OFF` 설정
 - **Emulator 실행**: 생성한 애뮬레이터 선택 후 Launch 클릭
 <br/><br/>
 
@@ -132,8 +132,8 @@ tags: [Tizen]
 - **프로젝트 위치:** C:\Users\HanYeJi\source\repos\TizenXamlApp7-class
     - Mainpage.xml (초반에는 이 파일을 주로 작업)
 - **빌드:** 빌드 > 솔루션 다시 빌드 클릭
-    - 프로젝트 2개이므로 성공 2가 출력 되어야 한다.
-- **실행:** 위에서 생성한 애뮬레이터 이름이 띄워져야 한다.
+    - 프로젝트 2개이므로 성공 2가 출력 되어야 합니다.
+- **실행:** 위에서 생성한 애뮬레이터 이름이 띄워져야 합니다.
 <br/><br/>
 
 ---
@@ -181,4 +181,4 @@ tags: [Tizen]
 ---
 **진행 중인 이슈**
 
-- 전원 버튼을 눌러도 안 꺼진다. 창 끄기로 강제 종료 해야 꺼진다.
+- 전원 버튼을 눌러도 안 꺼집니다. 창 끄기로 강제 종료 해야 꺼지는 상황입니다.
