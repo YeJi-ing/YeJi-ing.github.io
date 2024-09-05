@@ -1,12 +1,12 @@
-#  The contact options.
+# The contact options.
 
 - type: github
   icon: "fab fa-github"
-  url:  'https://github.com/YeJi-ing'
+  url: 'https://github.com/YeJi-ing'
 
 - type: linkedin
-   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-   url:  'https://www.linkedin.com/in/yeji-han-6568532a0/'  
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url: 'https://www.linkedin.com/in/yeji-han-6568532a0/' 
 
 # Uncomment and complete the url below to enable more contact options
 # - type: twitter
